@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#cabecalho, #principal, #rodape{
+    width: 900px;
+    margin:auto;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+/*---cabecalho---*/
+#cabecalho h1{
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    font-weight: normal;
+}
+#cabecalho em{
+    color: rgb(255, 255, 255);
+    font-style: normal;
+}
