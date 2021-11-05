@@ -1,0 +1,43 @@
+h2 {
+    text-align: center;
+    border: 1px solid black;
+    padding: 20px;
+  }
+  #fotodabandeira {
+      position: absolute;
+      top: 70px;
+      right: 100px;
+  }
+  #fotodapraia {
+      position: absolute;
+      right: 640px; 
+      bottom: 240px;
+  }
+  figcaption {
+      font-style: italic;
+      font-weight: bold;
+      position: relative;
+      left: 450px;
+      bottom: -210px;
+  }
+  .Population{
+      color: blue;
+  }
+  .Religion{
+      color: blue;
+  }
+  .language{
+      color: blue;
+  }
+  p {
+    text-align: justify;
+}
+body{
+    background-image: url("palha.jpg");
+
+}
+#Principal{
+    background-color: white;
+    padding: 20px;
+
+}
