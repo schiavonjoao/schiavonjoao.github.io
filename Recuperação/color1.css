@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.cinzaescuro{
+    background-color: rgb(187, 187, 187);
+}
+.cinzaclaro{
+    background-color: rgb(231, 231, 231);
+}
+
+    

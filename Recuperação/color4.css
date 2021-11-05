@@ -1,0 +1,21 @@
+#imgpos {
+	position: absolute;
+    right: 705px; 
+	}
+div{
+    text-align: justify;
+}
+body{
+    border: 2px solid black;
+}
+.Population{
+    color: blue;
+}
+.Religion{
+    color: blue;
+}
+.language{
+    color: blue;
+}
+
+
