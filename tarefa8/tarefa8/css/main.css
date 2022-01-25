@@ -1,0 +1,60 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+    background-image: url(../img/vitrine.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.form-control {
+    width: 80%;
+    display: inline-block;
+}
+
+.cordotexto {
+    color: gray;
+}
+
+.cabra {
+    background-color: lightgray;
+    display: flex;
+}
+
+.cabra button {
+    background-color: rgb(80, 80, 80);
+    color: #fff;
+}
+
+.texto2 {
+    font-size: 200%;
+    padding-top: 100px;
+}
+
+.subtitulo2 {
+    font-size: 150%;
+}
+
+.texto3 {
+    padding-top: 40px;
+}
+
+.fig {
+    display: flex;
+    float: left;
+}
+
+footer span {
+    font-size: 150%;
+}
+
+.titulo1 {
+    text-align: center;
+}
+
+.subtitulo1 {
+    text-align: center;
+}
